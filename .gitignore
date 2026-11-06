@@ -11,3 +11,4 @@ out/
 
 # vercel 本地项目链接
 .vercel/
+.env*
