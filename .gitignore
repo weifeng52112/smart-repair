@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+
+# 秘密抽屉：绝不提交
+.env.local
+.env*.local
+.vercel
+
+# vercel 本地项目链接
+.vercel/
